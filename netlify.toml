@@ -1,6 +1,6 @@
 [build]
   publish = "_site"
-  command = "quarto render"
+  command = "./setup.sh && quarto render"
 
 [build.environment]
   QUARTO_VERSION = "1.6.40"
