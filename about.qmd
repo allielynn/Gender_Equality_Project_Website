@@ -1,0 +1,4 @@
+---
+title: "About"
+image: girls_in_classroom.jpeg
+---
