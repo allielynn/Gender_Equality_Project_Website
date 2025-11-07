@@ -9,6 +9,8 @@ website:
         text: Home
       - href: about.qmd
         text: About
+      - href: data_critique.qmd
+        text: Data Critique
 
 format:
   html:
