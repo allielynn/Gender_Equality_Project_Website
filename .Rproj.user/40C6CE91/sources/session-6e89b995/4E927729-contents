@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Beyond the Classroom"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: data_critique.qmd
+        text: Data Critique
+
+format:
+  html:
+    theme:
+      - minty
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+
