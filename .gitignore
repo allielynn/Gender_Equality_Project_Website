@@ -1,7 +1,13 @@
-/.quarto/
-.Rproj.user
+# R / RStudio
 .Rhistory
 .RData
-.Ruserdata
+.Rproj.user/
+.Rprofile
+.Renviron
 
-/.quarto/
+# Quarto outputs
+_site/
+.quarto/
+
+# OS cruft
+.DS_Store
