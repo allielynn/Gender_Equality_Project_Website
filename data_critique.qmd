@@ -2,6 +2,7 @@
 title: "Data Critique"
 ---
 
+![](https://genderdata.worldbank.org/content/dam/sites/data/gender-data/img/2023/gender-portal-logo-2x.png){width=500}
 
 Our dataset, drawn from the World Bank’s Gender Data Portal (2000–2023), aggregates official statistics on women’s education, health, economic conditions, and demographic structure across countries at different stages of development. It includes human-capital and health indicators (e.g., HCI, antenatal coverage, out-of-pocket health spending), measures of women’s autonomy and reproductive decision-making, education access and parity across levels, labor-force composition by schooling and sex, population and sex-disaggregated demographics, and institutional/legal markers of gender equality. These indicators are standardized for cross-country comparison and repeatedly updated, letting us examine how schooling relates to fertility, disease burden, access/quality of care, income distribution, poverty, and broader growth dynamics. In that sense, the portal is excellent for trend detection, benchmarking progress toward policy targets (e.g., SDGs), and identifying where gaps persist or reforms correlate with improvements.
 
