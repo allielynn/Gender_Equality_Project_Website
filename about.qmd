@@ -2,17 +2,16 @@
 title: "About"
 ---
 
-## Meet the Team 
+## Meet the Team
 
 |  |  |
-|---|---|
-| ![](headshot.jpeg){width=40%} | **Cynthia Du** <br> Hi! I’m Cynthia Du, a 4th year Statistics + Data Science and Cognitive Science w/ a Specialization in Computing double major from Denver, CO! My role as the product manager is to ensure that our project flows smoothly and communication between the team is going well. In addition, I work with the rest of the team to generate the information needed for the site! |
-| ![](Hayashida, Claire.jpeg){width=40%} | **Claire Hayashida** <br>  Hi everyone! My name is Claire and I am a fourth-year Statistics and Data Science major and Accounting minor from Carlsbad, California. In my role as Data Specialist, I managed the cleaning and refining of our dataset sourced from the World Bank.  |
-| ![](profilepic.jpg){width=40%} | **Allison Lynn** <br> I'm Allison, a senior Statistics and Data Science Major from San Diego, California. I am the web designer, responsible for creating the website and designing it! I enjoy web designing so much and can't wait to portray our argument and project through this website! |
-| ![](tom.JPG){width=40%}   | **Tom Liu** <br> Hi, I’m Tom, a third year transfer student majoring in Sociology with a minor in digital humanities from Changchun, Northeastern China. My role as the content developer is to have written analysis according to the data visualizations and making sure that the narratives from our group is consistent and coherent. I will also collaborate with other team members during the final stage of the project to oversee the editing process. |
-| ![](IMG_4982.jpg){width=40%}  | **Koji Schafer** <br> Hi, I’m Koji Schafer, a third year International Development Studies Major and Global Health Minor from Culver City, California. My role as the editor is to oversee the overall“look” of the project to ensure consistent design, readability, and accessibility. In addition, I will eagerly collaborate with the rest of the team to successfully execute a meaningful body of work. |
-| ![](IMG_2163.PNG){width=60%}  | **Montserra Munoz-Garcia** <br> Hi, I’m Monse, a third year student majoring in Cognitive Science with a minor in Digital Humanities. In my role as data visualization specialist, is to ensure that chosen data is in the right format and is fine-tuned. |
-
+|------------------------------------|------------------------------------|
+| ![](headshot.jpeg){width="40%"} | **Cynthia Du** <br> Hi! I’m Cynthia Du, a 4th year Statistics + Data Science and Cognitive Science w/ a Specialization in Computing double major from Denver, CO! My role as the product manager is to ensure that our project flows smoothly and communication between the team is going well. In addition, I work with the rest of the team to generate the information needed for the site! |
+| ![](Hayashida,%20Claire.jpeg){width="40%"} | **Claire Hayashida** <br> Hi everyone! My name is Claire and I am a fourth-year Statistics and Data Science major and Accounting minor from Carlsbad, California. In my role as Data Specialist, I managed the cleaning and refining of our dataset sourced from the World Bank. |
+| ![](profilepic.jpg){width="40%"} | **Allison Lynn** <br> I'm Allison, a senior Statistics and Data Science Major from San Diego, California. I am the web designer, responsible for creating the website and designing it! I enjoy web designing so much and can't wait to portray our argument and project through this website! |
+| ![](tom.JPG){width="40%"} | **Tom Liu** <br> Hi, I’m Tom, a third year transfer student majoring in Sociology with a minor in digital humanities from Changchun, Northeastern China. My role as the content developer is to have written analysis according to the data visualizations and making sure that the narratives from our group is consistent and coherent. I will also collaborate with other team members during the final stage of the project to oversee the editing process. |
+| ![](IMG_4982.jpg){width="40%"} | **Koji Schafer** <br> Hi, I’m Koji Schafer, a third year International Development Studies Major and Global Health Minor from Culver City, California. My role as the editor is to oversee the overall“look” of the project to ensure consistent design, readability, and accessibility. In addition, I will eagerly collaborate with the rest of the team to successfully execute a meaningful body of work. |
+| ![](IMG_2163.PNG){width="60%"} | **Montserra Munoz-Garcia** <br> Hi, I’m Monse, a third year student majoring in Cognitive Science with a minor in Digital Humanities. In my role as data visualization specialist, is to ensure that chosen data is in the right format and is fine-tuned. |
 
 ## Our Project
 
@@ -20,6 +19,12 @@ We are a team of UCLA students investigating how women’s education shapes heal
 
 Beyond access, education empowers women with the knowledge to make informed health decisions, challenge harmful cultural norms, and advocate for their own well-being. By comparing data across countries at different stages of economic and social development, our project seeks to highlight how investments in women’s education not only improve individual health outcomes but also generate broader societal benefits, including reduced maternal mortality, healthier families, and more sustainable population growth. We believe this will allow us to produce a meaningful and inclusive project that will enable individuals around the world to understand our research question.
 
+### Sources
 
+### Processing
 
+### Presentation
 
+Our site was developed in RStudio using Quarto, hosted on Netlify, and version-controlled with GitHub. The website has a white and mint color palette and texts are in black color to enhance the readability of the website using contrast. Every picture and data visualizations have alt text and descriptive headers to assist readers in their understanding. All headers follows a HTML structure which improves the accessibility of our website and provides directions for users when navigating.
+
+To visualize our research outcomes, our website integrats several data visualizations of different variables in our data. The purpose of this was to understand how the level of education for women can impact the right of getting healthcare in different countries. Based on the data collected from the World Bank’s Gender Data Portal, our visualizations highlighted the intersectionality between education, gender equality, birth rate and the holistic social welfare of different societies. Through this work, our goal is to turn statistical data into a human centered narration that explores how education shapes women’s health and futures beyond the classroom.

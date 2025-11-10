@@ -8,4 +8,4 @@ Digital Humanities 101 Project - Digital Divas
 
 Group Members: Cynthia Du, Claire Hayashida, Tom Liu, Allison Lynn, Montserrat Munoz-Garcia, Koji Schafer
 
-
+![](health_expenditure_fertility_birth_rate.html)
