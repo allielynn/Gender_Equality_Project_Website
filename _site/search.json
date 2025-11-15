@@ -11,7 +11,14 @@
     "href": "index.html",
     "title": "Beyond the Classroom: How Education Shapes Women’s Health and Futures",
     "section": "",
-    "text": "Digital Humanities 101 Project - Digital Divas\nGroup Members: Cynthia Du, Claire Hayashida, Tom Liu, Allison Lynn, Montserrat Munoz-Garcia, Koji Schafer"
+    "text": "caption\n\n\n\nBackground on Women’s Health\nThis section will include a background on global women’s health and why it is crucial as a topic. Statistics on global health,differences globally between expenditure on healthcare men vs. women and why this matters\n\n\n\n\nBackground on Women’s Education\nThis section will include how women’s education may effect women’s health globally and our hypothesis that an increase in women’s education (both primary and secondary) finds an increase in rates surrounding women’s health and the health of infants."
+  },
+  {
+    "objectID": "viz.html",
+    "href": "viz.html",
+    "title": "Visualizations",
+    "section": "",
+    "text": "viz1\n\n\nVisualization 1\n\n\n\n\n\n\n\n\n\n\n\n\n\nviz2\n\n\nVisualization 2\n\n\n\n\n\n\n\n\n\n\n\n\n\nviz3\n\n\nVisualization 3\n\n\n\n\n\n\n\n\n\n\n\n\n\nviz4\n\n\nVisualization 4\n\n\n\n\n\n\n\n\n\n\n\n\n\nviz5\n\n\nVisualization 5\n\n\n\n\n\n\n\n\n\n\n\n\n\nviz6\n\n\nVisualization 6\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -32,6 +39,48 @@
     "href": "about.html#our-project",
     "title": "About",
     "section": "Our Project",
-    "text": "Our Project\nWe are a team of UCLA students investigating how women’s education shapes health outcomes across countries at varying stages of development. Our research explores how education serves as a critical determinant of women’s health by influencing fertility behavior, access to healthcare, and overall knowledge about reproductive and maternal health. We argue that higher levels of education among women correlate with lower fertility rates, as education often delays marriage and childbearing while increasing awareness and use of family planning methods. Moreover, education enhances women’s ability to navigate healthcare systems such as improving access to prenatal and postnatal care, child immunization, and preventive services.\nBeyond access, education empowers women with the knowledge to make informed health decisions, challenge harmful cultural norms, and advocate for their own well-being. By comparing data across countries at different stages of economic and social development, our project seeks to highlight how investments in women’s education not only improve individual health outcomes but also generate broader societal benefits, including reduced maternal mortality, healthier families, and more sustainable population growth. We believe this will allow us to produce a meaningful and inclusive project that will enable individuals around the world to understand our research question.\n\nSources\n\n\nProcessing\n\n\nPresentation\nOur site was developed in RStudio using Quarto, hosted on Netlify, and version-controlled with GitHub. The website has a white and mint color palette and texts are in black color to enhance the readability of the website using contrast. Every picture and data visualizations have alt text and descriptive headers to assist readers in their understanding. All headers follows a HTML structure which improves the accessibility of our website and provides directions for users when navigating.\nTo visualize our research outcomes, our website integrats several data visualizations of different variables in our data. The purpose of this was to understand how the level of education for women can impact the right of getting healthcare in different countries. Based on the data collected from the World Bank’s Gender Data Portal, our visualizations highlighted the intersectionality between education, gender equality, birth rate and the holistic social welfare of different societies. Through this work, our goal is to turn statistical data into a human centered narration that explores how education shapes women’s health and futures beyond the classroom."
+    "text": "Our Project\nWe are a team of UCLA students investigating how women’s education shapes health outcomes across countries at varying stages of development. Our research explores how education serves as a critical determinant of women’s health by influencing fertility behavior, access to healthcare, and overall knowledge about reproductive and maternal health. We argue that higher levels of education among women correlate with lower fertility rates, as education often delays marriage and childbearing while increasing awareness and use of family planning methods. Moreover, education enhances women’s ability to navigate healthcare systems such as improving access to prenatal and postnatal care, child immunization, and preventive services.\nBeyond access, education empowers women with the knowledge to make informed health decisions, challenge harmful cultural norms, and advocate for their own well-being. By comparing data across countries at different stages of economic and social development, our project seeks to highlight how investments in women’s education not only improve individual health outcomes but also generate broader societal benefits, including reduced maternal mortality, healthier families, and more sustainable population growth. We believe this will allow us to produce a meaningful and inclusive project that will enable individuals around the world to understand our research question.\n\nSources\nThe primary source for our data is the Gender Data Portal, created and funded by the World Bank Group. The portal is maintained by the World Bank’s Gender Group and the Development Economics Data Group, who update the dataset four times per year. Its development and continued improvement are also supported by several multi-donor trust funds, including the Umbrella Facility for Gender Equality, the Bill & Melinda Gates Foundation, and other long-term contributors.\nData featured in the Gender Data Portal is collected by national governments and major international organizations responsible for producing official, gender-disaggregated statistics. These contributors include national statistical offices, ministries of labor, health, education, and population, as well as international bodies such as UNDP, UNICEF, UN Women, UNESCO, the International Labour Organization (ILO), the World Health Organization (WHO), and the International Monetary Fund (IMF). These organizations gather standardized data from member countries, which the World Bank compiles and organizes within the Gender Data Portal to make global comparisons accessible and reliable.\n\n\nProcessing\nSince we drew our data from the Gender Data Portal, all of our data was drawn individually from the API by key variable name. This data for each variable indexed by economy (which was the country codes), and columned by year. We then had to do extensive processing of our data to get in the format where year was a single column in order to compile a larger dataset with multiple variables. We did this using Python with libraries such as pandas and numpy. After compiling the data in a usable format, we downloaded the raw data with 32 variables as a csv.\nWe then had to do some imputations in order to handle missing values in the data. We did this in R by …\nFor our visualizations, we used Tableau and R to highlight patterns in the data. Tableau powered interactive dashboards that were easy for teammates with less coding experience to build and explore, while R supported more technical, analysis-heavy charts. Some of our team members also leveraged the Plotly library in R to add interactivity to custom graphics. In addition, we used Timeline.js to create an interactive chronology of global birth rates that paired narrative context with visuals.\n\n\nPresentation\nOur site was developed in RStudio using Quarto, hosted on Netlify, and version-controlled with GitHub. The website has a white and mint color palette and texts are in black color to enhance the readability of the website using contrast. Every picture and data visualizations have alt text and descriptive headers to assist readers in their understanding. All headers follows a HTML structure which improves the accessibility of our website and provides directions for users when navigating.\nTo visualize our research outcomes, our website integrats several data visualizations of different variables in our data. The purpose of this was to understand how the level of education for women can impact the right of getting healthcare in different countries. Based on the data collected from the World Bank’s Gender Data Portal, our visualizations highlighted the intersectionality between education, gender equality, birth rate and the holistic social welfare of different societies. Through this work, our goal is to turn statistical data into a human centered narration that explores how education shapes women’s health and futures beyond the classroom."
+  },
+  {
+    "objectID": "Visualizations/viz1.html",
+    "href": "Visualizations/viz1.html",
+    "title": "viz1",
+    "section": "",
+    "text": "caption"
+  },
+  {
+    "objectID": "Visualizations/viz2.html",
+    "href": "Visualizations/viz2.html",
+    "title": "viz2",
+    "section": "",
+    "text": "caption"
+  },
+  {
+    "objectID": "Visualizations/viz3.html",
+    "href": "Visualizations/viz3.html",
+    "title": "viz3",
+    "section": "",
+    "text": "caption"
+  },
+  {
+    "objectID": "Visualizations/viz4.html",
+    "href": "Visualizations/viz4.html",
+    "title": "viz4",
+    "section": "",
+    "text": "caption"
+  },
+  {
+    "objectID": "Visualizations/viz5.html",
+    "href": "Visualizations/viz5.html",
+    "title": "viz5",
+    "section": "",
+    "text": "caption"
+  },
+  {
+    "objectID": "Visualizations/viz6.html",
+    "href": "Visualizations/viz6.html",
+    "title": "viz6",
+    "section": "",
+    "text": "caption"
   }
 ]

@@ -1,0 +1,12 @@
+---
+title: "Visualizations"
+listing:
+  type: grid
+  contents:
+    - "Visualizations/*.qmd"
+  sort: false
+  fields:
+    - title
+    - description
+    - image 
+---

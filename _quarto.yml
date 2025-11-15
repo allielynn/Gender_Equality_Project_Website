@@ -4,13 +4,24 @@ project:
 website:
   title: "Beyond the Classroom"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - href: about.qmd
         text: About
       - href: data_critique.qmd
         text: Data Critique
+      - href: rq1.qmd
+        text: Research Question 1
+      - href: rq2.qmd
+        text: Research Question 2
+      - href: rq3.qmd
+        text: Research Question 3
+      - href: viz.qmd
+        text: Visualizations
+      - href: sources.qmd
+        text: Sources
+        
 
 format:
   html:

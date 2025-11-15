@@ -7,5 +7,38 @@
   },
   "data_critique.qmd": {
     "data_critique.html": "281236ab"
+  },
+  "viz.qmd": {
+    "viz.html": "ad385134"
+  },
+  "sources.qmd": {
+    "sources.html": "6c3e288e"
+  },
+  "rq1.qmd": {
+    "rq1.html": "47090d2b"
+  },
+  "Visualizations/viz2.qmd": {
+    "viz2.html": "79b78c67"
+  },
+  "Visualizations/viz3.qmd": {
+    "viz3.html": "83ea7a2b"
+  },
+  "Visualizations/viz1.qmd": {
+    "viz1.html": "a44d60a9"
+  },
+  "Visualizations/viz4.qmd": {
+    "viz4.html": "72553ecf"
+  },
+  "Visualizations/viz5.qmd": {
+    "viz5.html": "c555ee11"
+  },
+  "Visualizations/viz6.qmd": {
+    "viz6.html": "80131ac3"
+  },
+  "rq2.qmd": {
+    "rq2.html": "2f7e898c"
+  },
+  "rq3.qmd": {
+    "rq3.html": "e439a9a1"
   }
 }

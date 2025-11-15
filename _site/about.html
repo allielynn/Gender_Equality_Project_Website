@@ -100,6 +100,26 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./data_critique.html"> 
 <span class="menu-text">Data Critique</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./rq1.html"> 
+<span class="menu-text">Research Question 1</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./rq2.html"> 
+<span class="menu-text">Research Question 2</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./rq3.html"> 
+<span class="menu-text">Research Question 3</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./viz.html"> 
+<span class="menu-text">Visualizations</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./sources.html"> 
+<span class="menu-text">Sources</span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -189,9 +209,14 @@ ul.task-list li input[type="checkbox"] {
 <p>Beyond access, education empowers women with the knowledge to make informed health decisions, challenge harmful cultural norms, and advocate for their own well-being. By comparing data across countries at different stages of economic and social development, our project seeks to highlight how investments in women’s education not only improve individual health outcomes but also generate broader societal benefits, including reduced maternal mortality, healthier families, and more sustainable population growth. We believe this will allow us to produce a meaningful and inclusive project that will enable individuals around the world to understand our research question.</p>
 <section id="sources" class="level3">
 <h3 class="anchored" data-anchor-id="sources">Sources</h3>
+<p>The primary source for our data is the Gender Data Portal, created and funded by the World Bank Group. The portal is maintained by the World Bank’s Gender Group and the Development Economics Data Group, who update the dataset four times per year. Its development and continued improvement are also supported by several multi-donor trust funds, including the Umbrella Facility for Gender Equality, the Bill &amp; Melinda Gates Foundation, and other long-term contributors.</p>
+<p>Data featured in the Gender Data Portal is collected by national governments and major international organizations responsible for producing official, gender-disaggregated statistics. These contributors include national statistical offices, ministries of labor, health, education, and population, as well as international bodies such as UNDP, UNICEF, UN Women, UNESCO, the International Labour Organization (ILO), the World Health Organization (WHO), and the International Monetary Fund (IMF). These organizations gather standardized data from member countries, which the World Bank compiles and organizes within the Gender Data Portal to make global comparisons accessible and reliable.</p>
 </section>
 <section id="processing" class="level3">
 <h3 class="anchored" data-anchor-id="processing">Processing</h3>
+<p>Since we drew our data from the Gender Data Portal, all of our data was drawn individually from the API by key variable name. This data for each variable indexed by economy (which was the country codes), and columned by year. We then had to do extensive processing of our data to get in the format where year was a single column in order to compile a larger dataset with multiple variables. We did this using Python with libraries such as pandas and numpy. After compiling the data in a usable format, we downloaded the raw data with 32 variables as a csv.</p>
+<p>We then had to do some imputations in order to handle missing values in the data. We did this in R by …</p>
+<p>For our visualizations, we used Tableau and R to highlight patterns in the data. Tableau powered interactive dashboards that were easy for teammates with less coding experience to build and explore, while R supported more technical, analysis-heavy charts. Some of our team members also leveraged the Plotly library in R to add interactivity to custom graphics. In addition, we used Timeline.js to create an interactive chronology of global birth rates that paired narrative context with visuals.</p>
 </section>
 <section id="presentation" class="level3">
 <h3 class="anchored" data-anchor-id="presentation">Presentation</h3>

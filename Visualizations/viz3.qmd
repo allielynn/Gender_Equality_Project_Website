@@ -1,0 +1,8 @@
+---
+title: "viz3"
+image: viz1.image.png
+description: "Visualization 3"
+format: html
+---
+
+![caption](viz1.image.png)

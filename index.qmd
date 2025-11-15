@@ -2,10 +2,17 @@
 title: "Beyond the Classroom: How Education Shapes Women’s Health and Futures"
 ---
 
-![](girls_in_classroom.jpeg)
+![caption](girls_in_classroom.jpeg)
 
-Digital Humanities 101 Project - Digital Divas
+# Background on Women's Health
 
-Group Members: Cynthia Du, Claire Hayashida, Tom Liu, Allison Lynn, Montserrat Munoz-Garcia, Koji Schafer
+This section will include a background on global women's health and why it is crucial as a topic. Statistics on global health,differences globally between expenditure on healthcare men vs. women and why this matters
 
-![](health_expenditure_fertility_birth_rate.html)
+<iframe
+  src="https://public.tableau.com/views/Map_Viz_17629843748300/Sheet1?:showVizHome=no&:embed=y&:tabs=no&:toolbar=no"
+  width="100%" height="700" frameborder="0" scrolling="no">
+</iframe>
+
+# Background on Women's Education
+
+This section will include how women's education may effect women's health globally and our hypothesis that an increase in women's education (both primary and secondary) finds an increase in rates surrounding women's health and the health of infants.
