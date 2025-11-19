@@ -1,1 +1,5 @@
 /* css styles */
+.hanging-indent {
+  padding-left: 0em;
+  text-indent: -0.5em;
+}
