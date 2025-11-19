@@ -66,6 +66,13 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<style>
+
+      .quarto-title-block .quarto-title-banner {
+        background-image: url(banner.jpeg);
+background-size: cover;
+      }
+</style>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -74,7 +81,7 @@ ul.task-list li input[type="checkbox"] {
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -87,7 +94,7 @@ ul.task-list li input[type="checkbox"] {
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll me-auto">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
@@ -128,7 +135,23 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">About</h1>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
@@ -147,25 +170,10 @@ ul.task-list li input[type="checkbox"] {
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">About</h1>
-</div>
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
 
 
 <section id="meet-the-team" class="level2">
@@ -215,7 +223,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="processing" class="level3">
 <h3 class="anchored" data-anchor-id="processing">Processing</h3>
 <p>Since we drew our data from the Gender Data Portal, all of our data was drawn individually from the API by key variable name. This data for each variable indexed by economy (which was the country codes), and columned by year. We then had to do extensive processing of our data to get in the format where year was a single column in order to compile a larger dataset with multiple variables. We did this using Python with libraries such as pandas and numpy. After compiling the data in a usable format, we downloaded the raw data with 32 variables as a csv.</p>
-<p>We then had to do some imputations in order to handle missing values in the data. We did this in R by …</p>
+<p>We then had to do some imputations in order to handle missing values in the data. In order to increase the statistical significance of our analysis, we decided to remove all variables with over 50% of values missing. This left our data set with 15 variables. To impute the missing values in the remaining variables, we used R to first determine the approximate distribution of each variable; assigning each variable a skewness rating computed as the sample skewness of each variable using the e1071 package in RStudio. We then classified each variable with a skewness rating greater than 1 as “skewed” and each variable with a skewness rating less than 1 as “approximately symmetrical.” For each “skewed” variable, we then imputed the median of the variable’s existing observations into each missing observation. For each “approximately symmetrical” variable, we imputed the mean of the variable’s existing observation into each missing observation. In doing these imputations, we hope to minimize the effect of missing values on our data by hopefully replacing these missing values with an estimation of the true center of each variable.</p>
 <p>For our visualizations, we used Tableau and R to highlight patterns in the data. Tableau powered interactive dashboards that were easy for teammates with less coding experience to build and explore, while R supported more technical, analysis-heavy charts. Some of our team members also leveraged the Plotly library in R to add interactivity to custom graphics. In addition, we used Timeline.js to create an interactive chronology of global birth rates that paired narrative context with visuals.</p>
 </section>
 <section id="presentation" class="level3">

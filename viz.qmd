@@ -1,5 +1,6 @@
 ---
 title: "Visualizations"
+title-block-banner: "banner.jpeg"
 listing:
   type: grid
   contents:

@@ -1,5 +1,6 @@
 ---
-title: "Beyond the Classroom: How Education Shapes Women’s Health and Futures"
+title: "Home                                                                                                              "
+title-block-banner: "banner.jpeg"
 ---
 
 ![caption](girls_in_classroom.jpeg)
@@ -8,9 +9,8 @@ title: "Beyond the Classroom: How Education Shapes Women’s Health and Futures"
 
 This section will include a background on global women's health and why it is crucial as a topic. Statistics on global health,differences globally between expenditure on healthcare men vs. women and why this matters
 
-<iframe
-  src="https://public.tableau.com/views/Map_Viz_17629843748300/Sheet1?:showVizHome=no&:embed=y&:tabs=no&:toolbar=no"
-  width="100%" height="700" frameborder="0" scrolling="no">
+<iframe src="https://public.tableau.com/views/Map_Viz_17629843748300/Sheet1?:showVizHome=no&amp;:embed=y&amp;:tabs=no&amp;:toolbar=no" width="100%" height="700" frameborder="0" scrolling="no">
+
 </iframe>
 
 # Background on Women's Education

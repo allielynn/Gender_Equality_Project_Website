@@ -25,6 +25,8 @@ website:
 
 format:
   html:
+    title-block: true
+    title-block-banner: true
     theme:
       - minty
       - brand

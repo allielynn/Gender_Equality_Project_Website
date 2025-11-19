@@ -1,3 +1,4 @@
 ---
 title: "Research Question 2"
+title-block-banner: "banner.jpeg"
 ---

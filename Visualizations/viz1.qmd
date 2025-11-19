@@ -1,5 +1,6 @@
 ---
 title: "viz1"
+title-block-banner: "banner_viz.jpeg"
 image: viz1.image.png
 description: "Visualization 1"
 format: html
