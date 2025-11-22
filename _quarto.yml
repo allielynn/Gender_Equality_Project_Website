@@ -2,25 +2,19 @@ project:
   type: website
 
 website:
-  title: "Beyond the<br>Classroom"
+  title: "Beyond the Classroom"
   navbar:
     right:
       - href: index.qmd
         text: Home
       - href: about.qmd
         text: About
+      - href: narrative.qmd
+        text: Narrative 
       - href: data_critique.qmd
         text: Data Critique
-      - href: rq1.qmd
-        text: Research Q 1
-      - href: rq2.qmd
-        text: Research Q 2
-      - href: rq3.qmd
-        text: Research Q 3
       - href: viz.qmd
         text: Visualizations
-      - href: sources.qmd
-        text: Sources
       - href: annotated_bib.qmd
         text: Annotated Bibliography
         

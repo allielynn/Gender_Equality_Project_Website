@@ -3,8 +3,6 @@ title: "Home                                                                    
 title-block-banner: "banner.jpeg"
 ---
 
-![caption](girls_in_classroom.jpeg)
-
 # Background on Women's Health
 
 This section will include a background on global women's health and why it is crucial as a topic. Statistics on global health,differences globally between expenditure on healthcare men vs. women and why this matters
