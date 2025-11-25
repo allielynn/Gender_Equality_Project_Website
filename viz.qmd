@@ -8,6 +8,5 @@ listing:
   sort: false
   fields:
     - title
-    - description
     - image 
 ---

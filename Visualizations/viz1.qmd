@@ -1,9 +1,20 @@
 ---
-title: "viz1"
+title: "Secondary-Educated <br>Population by Gender"
 title-block-banner: "banner_viz.jpeg"
-image: viz1.image.png
-description: "Visualization 1"
+image: viz1.jpeg
 format: html
 ---
 
-![caption](viz1.image.png)
+<figure style="text-align: center;">
+
+<iframe src="secondary_education_gender_shares_ordered_by_infant_mortality_rate.html" width="100%" height="600" style="border:none;">
+
+</iframe>
+
+<figcaption style="margin-top: font-size: 0.9em; color: #555;">
+
+Female share of secondary education enrollment across low–middle income countries in 2018, ordered by infant mortality rate (per 1,000 live births). Each bar displays the proportion of secondary students who are female versus male. The dashed line marks the 45% female-share threshold to highlight countries falling below this benchmark.
+
+</figcaption>
+
+</figure>

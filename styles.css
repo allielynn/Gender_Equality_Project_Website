@@ -3,3 +3,6 @@
   padding-left: 0em;
   text-indent: -0.5em;
 }
+#title-block-header .quarto-title .title {
+  color: #FBEFD8 !important;
+}

@@ -34,6 +34,8 @@ Since we drew our data from the Gender Data Portal, all of our data was drawn in
 
 We then had to do some imputations in order to handle missing values in the data. In order to increase the statistical significance of our analysis, we decided to remove all variables with over 50% of values missing. This left our data set with 15 variables. To impute the missing values in the remaining variables, we used R to first determine the approximate distribution of each variable; assigning each variable a skewness rating computed as the sample skewness of each variable using the e1071 package in RStudio. We then classified each variable with a skewness rating greater than 1 as “skewed” and each variable with a skewness rating less than 1 as “approximately symmetrical.” For each “skewed” variable, we then imputed the median of the variable’s existing observations into each missing observation. For each “approximately symmetrical” variable, we imputed the mean of the variable’s existing observation into each missing observation. In doing these imputations, we hope to minimize the effect of missing values on our data by hopefully replacing these missing values with an estimation of the true center of each variable.
 
+## Secondary education imputations
+
 For our visualizations, we used Tableau and R to highlight patterns in the data. Tableau powered interactive dashboards that were easy for teammates with less coding experience to build and explore, while R supported more technical, analysis-heavy charts. Some of our team members also leveraged the Plotly library in R to add interactivity to custom graphics. In addition, we used Timeline.js to create an interactive chronology of global birth rates that paired narrative context with visuals.
 
 ### Presentation

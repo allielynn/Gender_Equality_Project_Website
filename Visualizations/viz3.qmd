@@ -1,9 +1,23 @@
 ---
-title: "viz3"
-image: viz1.image.png
+title: "GDP vs. Neonatal <br>Mortality Rates"
+image: viz3.jpeg
 title-block-banner: "banner_viz.jpeg"
-description: "Visualization 3"
 format: html
 ---
+    
+<figure style="text-align: center;">
+  <iframe 
+    src="gdp_neonatal_fertility_rate.html" 
+    width="100%" 
+    height="600"
+    style="border:none;">
+  </iframe>
+  <figcaption style="margin-top: font-size: 0.9em; color: #555;">
+    Each point represents a country in a given year, where the x-axis reflects economic size (log GDP), the y-axis reflects neonatal mortality, and the color indicates health expenditure per capita. 
+  </figcaption>
+</figure>
 
-![caption](viz1.image.png)
+(log for wide range of gdps to visualize more)
+
+Some of the most low-income countries have around the same as the highest income countries. However, in the middle we see more of a concentration for low-mid income countries experiencing higher infant mortality rates. Looking at the individual data point
+

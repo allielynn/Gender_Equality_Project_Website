@@ -4,6 +4,8 @@ project:
 website:
   title: "Beyond the Classroom"
   navbar:
+    background: "#FFF7E6"
+    foreground: "black"
     right:
       - href: index.qmd
         text: Home
