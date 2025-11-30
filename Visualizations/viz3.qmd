@@ -19,5 +19,7 @@ format: html
 
 (log for wide range of gdps to visualize more)
 
+the way countries spend health expenditure is the greatest correlation impacting neonatal mortality rates, not gdp.
+
 Some of the most low-income countries have around the same as the highest income countries. However, in the middle we see more of a concentration for low-mid income countries experiencing higher infant mortality rates. Looking at the individual data point
 
