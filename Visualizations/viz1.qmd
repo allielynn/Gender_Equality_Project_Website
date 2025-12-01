@@ -11,10 +11,11 @@ format: html
 
 </iframe>
 
-<figcaption style="margin-top: font-size: 0.9em; color: #555;">
 
 Female share of secondary education enrollment across low–middle income countries in 2018 (top) vs. 2021 (bottom), ordered by infant mortality rate (per 1,000 live births). Each bar displays the proportion of secondary students who are female versus male. The dashed line marks the 45% female-share threshold to highlight countries falling below this benchmark.
 
 </figcaption>
 
 </figure>
+
+Prelimary Analysis: The figure illustrates the differences before and after the pandmeci of lower-secondary completion rates per gender for low-income countries. it is ordered by infant mortality rate low to high (left to right)we see thay in 2021 thr country with the highest infant mortality rate, actually becomes the country with the most share of secondary completion by females. it is a huge jump from 2018. We can also see that all countries in our analysis now reach at or above 45% feamle share in 2021 illustrating a bigger leap to womens education following the pandemic. Hovering over each bar we also can see the exact infant mortality rate and note that the max infant mortality rate actually decreased after the pandemic. Just a year after the worldwide pandemic, we see higher shares in lower-secondary education completion rates vfor females and lower infant mortality rates. This could be due to more emphasis on education in low-income coutnries following the outbreak of COVID19 in order to support more online work instead of relying soley on more in-person hands on work that low-income countries often take up. We also may see a decline in infant mortality due to more focus on health, suprisngly not the contrast which would make more sense with the need of doctors and caretakers for the pandemic. We overall see a better quality of education and health for women in low-income countries following the pandemic despite the need for caretkaers and hospital use during the pandemic. 
