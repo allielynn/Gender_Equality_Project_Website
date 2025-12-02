@@ -8,12 +8,34 @@ title-block-banner: "banner.jpeg"
 
 # Background on Women's Health
 
-This section will include a background on global women's health and why it is crucial as a topic. Statistics on global health,differences globally between expenditure on healthcare men vs. women and why this matters
+Women’s health is a topic that has become a crucial concern amongst many, if not all countries. Women’s health is about much more than just general physical wellness. It encompasses a variety of issues such as reproductive health, preventive care, and maternal health services. To this day, hundreds of thousands of women around the world continue to perish from preventable causes, many of them in relation to the timeframe surrounding pregnancy and childbirth. According to the World Health Organization, in 2020, an estimated “287,000 women died during and following pregnancy and childbirth”[^1].
 
-timeline here
+Unfortunately, women’s health remains insufficiently funded and inadequately researched. This causes a large issue especially because of its scale and importance in regard to economics. This matters not only for the health of individuals and their families, but also for societies and economies. Having more healthy women can positively contribute to labor markets while also increasing the type and amount of care for families available. Lessening or eliminating gaps in women’s health could produce large economic benefits.
+
+Investing in women’s health can assist in reducing avoidable deaths, improve quality of life, and help diminish gender gaps. Prioritizing women’s health is essential for creating healthier, more  equitable societies worldwide.
+
+## Timeline of Women’s Education (1764–2022)
+
+<div style="width: 100%; max-width: 1000px; margin: 0 auto;">
+  <iframe 
+    src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vSi59YH7x1TahptOeP5N4BFrrLKVnm9Ouj1xozQ5zEN5bErAS5w-iyW00HU53vvbyqmpR6yHtxcwUyG&font=Default&lang=en&initial_zoom=2&width=100%25&height=650"
+    width="100%"
+    height="650"
+    frameborder="0"
+    scrolling="no"
+    allowfullscreen
+  ></iframe>
+
+  <p style="text-align: center; font-size: 0.9em; margin-top: 0.5em;">
+    <em>This interactive timeline traces the history of women’s education around the world from 1764 to 2022, highlighting major milestones, reforms, and progress across centuries.</em>
+  </p>
+</div>
+
 
 # Background on Women's Education
 
 The history of women’s education is a wide, nuanced, and uneven global struggle that has been shaped by shifting cultural, political, and social systems that create the change necessary to institute the women’s right to education. From early institutions such as the Smolny Institute in Russia that included women’s education in the 1760s to worldwide expansions of compulsory schooling in the late 19th and 20th centuries, women’s access to education slowly expanded. Many countries around the world have opened their education systems to include primary, secondary, and university level educational opportunities for women through sometimes tumultuous political and social struggle that shifted national policies. Although there have been major strides in access to women’s education, recent shifts and trends toward conservatism and recent major political instability around the world has led to renewed education bans including in countries like Afghanistan under Taliban control. This showcases how access to women’s education is still vulnerable to political and social instability even after years of strides and progress. 
 
-With this in mind, this global expansion of women’s education strongly connects with improvements in women’s health outcomes and overall health of the female population in a country. When women receive an education, they are more likely to possess knowledge that will allow them to access prenatal care, use contraceptives, and make more informed health choices that can concern her own health and potentially her children’s health as well. In addition, increased educational attainment is linked to higher infant survival rates as women and mothers have been able to access critical knowledge about nutrition, disease prevention, and the healthcare systems that govern their health. 
+With this in mind, this global expansion of women’s education strongly connects with improvements in women’s health outcomes and overall health of the female population in a country. When women receive an education, they are more likely to possess knowledge that will allow them to access prenatal care, use contraceptives, and make more informed health choices that can concern her own health and potentially her children’s health as well. In addition, increased educational attainment is linked to higher infant survival rates as women and mothers have been able to access critical knowledge about nutrition, disease prevention, and the healthcare systems that govern their health.
+
+[^1]: MLA citation
