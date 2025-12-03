@@ -3,6 +3,8 @@ title: "Home                                                                    
 title-block-banner: "banner.jpeg"
 ---
 
+# Beyond the Classrom: Investigating the Global Impact of Women’s Education on Health Outcomes
+
 <iframe src="https://public.tableau.com/views/Map_Viz_17629843748300/Sheet1?:showVizHome=no&amp;:embed=y&amp;:tabs=no&amp;:toolbar=no" width="100%" height="700" frameborder="0" scrolling="no">
 </iframe>
 
