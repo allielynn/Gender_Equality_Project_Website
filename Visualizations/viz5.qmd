@@ -1,9 +1,23 @@
 ---
-title: "viz5"
-image: viz1.image.png
+title: "Education Investment <br>& School Enrollment"
+image: viz5.jpeg
 title-block-banner: "banner_viz.jpeg"
-description: "Visualization 5"
 format: html
 ---
 
-![caption](viz1.image.png)
+<figure style="width: 100%; max-width: 900px; margin: 0 auto;">
+
+  <iframe 
+    src="https://public.tableau.com/views/dhdataviz/Sheet3?:showVizHome=no&:embed=true"
+    width="100%"
+    height="800"
+    frameborder="0"
+    scrolling="no"
+    allowfullscreen
+  ></iframe>
+
+  <figcaption style="text-align: center; font-size: 0.9em; margin-top: 0.5em;">
+    Comparison of education expenditure (as a share of GDP) and primary school enrollment rates in Afghanistan (AFG) and Iceland (ISL) in 2019.
+  </figcaption>
+
+</figure>

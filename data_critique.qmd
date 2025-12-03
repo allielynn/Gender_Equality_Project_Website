@@ -5,7 +5,7 @@ title-block-banner: "banner.jpeg"
 
 ![caption](https://genderdata.worldbank.org/content/dam/sites/data/gender-data/img/2023/gender-portal-logo-2x.png){width="500"}
 
-We chose this bc it originally had a lot of variables we were interested in for the analysis, however after grabbing all of these variables, the amount of missing values leaded to us not being able to use all the variables we were interested in, and forcing our analysis to leave out a lot of the variables we were interested in for the project. 
+We chose this bc it originally had a lot of variables we were interested in for the analysis, however after grabbing all of these variables, the amount of missing values leaded to us not being able to use all the variables we were interested in, and forcing our analysis to leave out a lot of the variables we were interested in for the project.       
 
 The original sources for our dataset, the Gender Data Portal, are national governments and major international organizations that collect official disaggregated gender statistics. These sources include organizations like national statistical offices, labor and health ministries, and agencies responsible for education and population data. At the international level, much of the data comes from the United Nations (UNDP, UNICEF, UN Women), UNESCO, the International Labour Organization (ILO), the World Health Organization (WHO), and the International Monetary Fund (IMF). These organizations gather standardized data from member countries, which the World Bank then combines and organizes in the Gender Data Portal so people can easily compare information across countries.
 
