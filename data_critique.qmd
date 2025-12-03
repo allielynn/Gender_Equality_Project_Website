@@ -3,7 +3,7 @@ title: "Data Critique"
 title-block-banner: "banner.jpeg"
 ---
 
-![caption](https://genderdata.worldbank.org/content/dam/sites/data/gender-data/img/2023/gender-portal-logo-2x.png){width="500"}
+![World Bank Gender Data Portal Logo](https://genderdata.worldbank.org/content/dam/sites/data/gender-data/img/2023/gender-portal-logo-2x.png){width="500"}
 
 We chose this bc it originally had a lot of variables we were interested in for the analysis, however after grabbing all of these variables, the amount of missing values leaded to us not being able to use all the variables we were interested in, and forcing our analysis to leave out a lot of the variables we were interested in for the project.       
 
@@ -26,8 +26,6 @@ Variables such as Human Capital Index (HCI), literacy rates, and school enrollme
 Though this dataset does contain a large quantity of gender related and relevant indicators such as time series data from multiple countries and meta data about the data availability and gaps, it is not entirely inclusive. The datasets cannot reveal coverage of all countries and years between 2000-2023 due to many missing indicators. Due to this lack of data, some high income or small income countries may be severely or slightly underrepresented. We cannot assume that this dataset provides full global coverage. Additionally, people who are considered women, but are not counted on the country level of who is defined as women cannot be portrayed by this data set. For example, women who do not have gender defined on their birth certificate would be excluded from this dataset. Furthermore, non-binary gender identities are absent and can be completely discarded in the portrayal of this set.
 
 Because this data comes from the World Bank Group, which pulls its data from each country’s statistical databases, this makes our data susceptible to the ideologies of each country. For example, as our topic is focused on gender inequality and justice, the dataset alone does not describe how each country determines and explores gender identity or who they count in their statistics as “female,” for example. In a similar manner, our dataset has many variables relating to youth education rates. However, the dataset emphasizes formal forms of education, like primary school or trade school, and leaves out informal education which may be more common in less developed countries. Our data alone outlines gender inequality to be a measurable issue that may depend on the development index of each country, but we know that this is not necessarily the case.
-
-# ISSUE W SECONDARY EDUCATION VAR
 
 In addition, it is important to recognize that the World Bank and other contributing international organizations shape the very ontology of this dataset through their own institutional and political frameworks. By emphasizing measurable, standardized indicators that align with development goals such as economic growth or educational attainment, these organizations implicitly define what counts as “progress” or “equality.” This framing can marginalize alternative understandings of gender justice that emphasize cultural, social, or local forms of empowerment. It is up to us to identify the narrative and meaning behind this data to explore what is truly happening with these issues of gender inequality.
 
