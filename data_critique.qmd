@@ -1,6 +1,7 @@
 ---
 title: "Data Critique"
 title-block-banner: "banner.jpeg"
+page-layout: full
 ---
 
 ![World Bank Gender Data Portal Logo](https://genderdata.worldbank.org/content/dam/sites/data/gender-data/img/2023/gender-portal-logo-2x.png){width="500"}

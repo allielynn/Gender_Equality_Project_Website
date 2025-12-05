@@ -3,13 +3,23 @@ title: "Secondary-Educated <br>Gender Share Low<br> Income Countries"
 title-block-banner: "banner_viz.jpeg"
 image: viz1.jpeg
 format: html
+page-layout: full
 ---
 
+::: {.column-page}
 <figure style="text-align: center;">
 
-<iframe src="lower_secondary_education_gender_shares_ordered_by_infant_mortality_rate.html" width="100%" height="600" style="border:none;">
+  <iframe
+    src="lower_secondary_education_gender_shares_ordered_by_infant_mortality_rate.html"
+    style="border:none; width:100%; height:80vh;">
+  </iframe>
 
-</iframe>
+  <figcaption>
+    Female share of secondary education enrollment across low–middle income countries in 2018 (top) vs. 2021 (bottom), ordered by infant mortality rate (per 1,000 live births). Each bar displays the proportion of secondary students who are female versus male. The dashed line marks the 45% female-share threshold to highlight countries falling below this benchmark.
+  </figcaption>
+
+</figure>
+:::
 
 
 Female share of secondary education enrollment across low–middle income countries in 2018 (top) vs. 2021 (bottom), ordered by infant mortality rate (per 1,000 live births). Each bar displays the proportion of secondary students who are female versus male. The dashed line marks the 45% female-share threshold to highlight countries falling below this benchmark.

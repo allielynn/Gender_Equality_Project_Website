@@ -1,6 +1,7 @@
 ---
 title: "Home                                                                                                              "
 title-block-banner: "banner.jpeg"
+page-layout: full
 ---
 
 <div style="
@@ -11,6 +12,8 @@ title-block-banner: "banner.jpeg"
   color: #3EB489;">
   Beyond the Classroom: Investigating the Global Impact of Women’s Education on Health Outcomes
 </div>
+
+## What is the current state of women's health worldwide?
 
 <iframe src="https://public.tableau.com/views/Map_Viz_17629843748300/Sheet1?:showVizHome=no&amp;:embed=y&amp;:tabs=no&amp;:toolbar=no" width="100%" height="700" frameborder="0" scrolling="no">
 </iframe>

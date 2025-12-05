@@ -3,21 +3,26 @@ title: "Adolescent Fertility <br> by Binned Youth <br> Labor Force"
 image: viz2.jpeg
 title-block-banner: "banner_viz.jpeg"
 format: html
+page-layout: full
 ---
 
+::: {.column-page}
 <figure style="text-align: center;">
 
-<iframe src="adolscent_labor_force_bins.html" width="100%" height="600" style="border:none;">
+  <iframe
+    src="adolscent_labor_force_bins.html"
+    style="border:none; width:100%; height:80vh;">
+  </iframe>
 
-</iframe>
-
-<figcaption style="margin-top: font-size: 0.9em; color: #555;">
-
-Adolescent fertility rates (ages 15–24) are displayed for six bins of youth labor force participation. Each boxplot summarizes the distribution of fertility rates within its bin, while the color of each box reflects the median female-to-male literacy ratio for that labor-force-participation range.
-
-</figcaption>
+  <figcaption style="font-size: 0.9em; color: #555; margin-top: 0.5em;">
+    Adolescent fertility rates (ages 15–24) are displayed for six bins of youth labor force participation. 
+    Each boxplot summarizes the distribution of fertility rates within its bin, while the color of each box 
+    reflects the median female-to-male literacy ratio for that labor-force-participation range.
+  </figcaption>
 
 </figure>
+:::
+
 
 While visualization 1 explicitly highlighted how getting education can benefit the health of pregnant women and infants, visualization 2  moved its focus to an even earlier stage of life, shifting its focus  to adolescent girls who might not have completed secondary school yet. This visualization helps the audience to understand the economic disadvantage (particularly the participation into the workforce for teenage people) and its relationship to fertility outcomes and literacy levels. These findings supported the wide range of investigations. For researchers such as Azzopardi et al., who emphasize that adolescent wellbeing is shaped by intertwined educational and economic struggles (Azzopardi et al. 1101–1118). Whereas authors such as Singh and Singh argued that the difference when it comes to getting resources due to gender difference can greatly influence a woman’s health conditions (Singh and Singh). From here, the audience can see that visualization 2 demonstrates that labor, education, and reproductive behavior can intersect with each other before a girl turns into an adult. 
 

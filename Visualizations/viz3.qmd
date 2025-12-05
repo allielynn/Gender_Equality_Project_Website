@@ -3,19 +3,25 @@ title: "GDP vs. Neonatal <br>Mortality Rates"
 image: viz3.jpeg
 title-block-banner: "banner_viz.jpeg"
 format: html
+page-layout: full
 ---
     
+::: {.column-page}
 <figure style="text-align: center;">
-  <iframe 
-    src="gdp_neonatal_fertility_rate.html" 
-    width="100%" 
-    height="600"
-    style="border:none;">
+
+  <iframe
+    src="gdp_neonatal_fertility_rate.html"
+    style="border:none; width:100%; height:80vh;">
   </iframe>
-  <figcaption style="margin-top: font-size: 0.9em; color: #555;">
-    Each point represents a country in a given year, where the x-axis reflects economic size (log GDP), the y-axis reflects neonatal mortality, and the color indicates health expenditure per capita. 
+
+  <figcaption style="font-size: 0.9em; color: #555; margin-top: 0.5em;">
+    Each point represents a country in a given year, where the x-axis reflects economic size (log GDP), 
+    the y-axis reflects neonatal mortality, and the color indicates health expenditure per capita.
   </figcaption>
+
 </figure>
+:::
+
 
 This visualization explores and compares a country's neonatal mortality rates versus the economic size (GDP) and the health expenditure that each country endows. This visualization in particular applies a log scale to GDP to reduce the extreme spread in values and allow patterns to be more easily interpreted. The results show that health expenditure per capita is far more strongly associated with neonatal mortality than GDP itself. The color gradient makes this clear: countries with higher health spending consistently exhibit lower neonatal mortality rates, regardless of their GDP level.
 Interestingly, across the middle of the GDP distribution, we observe a concentration of countries—largely lower- to middle-income economies—with notably higher neonatal mortality rates. In contrast, both the lowest-GDP and highest-GDP countries show similar ranges of neonatal mortality outcomes, suggesting that GDP alone is not a reliable predictor of neonatal survival. This reinforces the idea that investment in health systems, rather than economic size, is what directly improves neonatal outcomes. Moreover, this also reinforces the idea that “higher-educated mothers have better access to healthcare services and resources, including quality antenatal care and skilled birth attendants, which can lead to timely interventions and improved neonatal outcomes” that are showcased through investment in healthcare systems. When women are more highly educated and have quality access to healthcare through increased health expenditure, neonatal mortality rates decrease, and overall reproductive and early childhood health increases. 

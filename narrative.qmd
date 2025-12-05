@@ -1,7 +1,10 @@
 ---
 title: "Narrative"
 title-block-banner: "banner.jpeg"
+page-layout: full
 ---
+
+# Introduction
 
 Education and healthcare are two powerful factors shaping the life qualities for women around the globe, but the relationship between them hugely varies by country based on different levels of development. During times when countries are trying to solve problems with education inequality, gaps in healthcare resources, and problematic gender stereotypes, it’s crucial to look at the question of how the level of education women receive can influence their health outcomes. From a macro perspective, global indicators had evident contrasts. We see this in the Average Birth Rate Per Country map below as it shows major regional disparities in fertility and health expenditure. These inequalities led to the central question of our project, which is “ How does women’s education shape reproductive, maternal, and overall health outcomes across countries?” To investigate this question, we as a team conducted research on the World Bank’s gender data portal to see the long-term trend of gender, health, and socioeconomic development. These datasets incorporated information and statistics from the United Nations and also the national statistical offices, as well as international health and labor organizations. This dataset is highly relevant to our research because it provides standardized and internationally comparable statistical data from 2000-2023. The datasets contained variables such as school enrollment, adolescent fertility, maternal healthcare access, gender parity indexes, and health expenditures. After thorough data cleaning and processing, we as a team applied Tableau and R software to do the graph visualizations. For example, scatterplots linking health expenditure, adolescent fertility, and birth rate. These data visualizations demonstrated that there’s a significant positive correlation between women’s level of education and their healthcare-related issues. The chosen dataset provided the foundation to our central thesis, that the investment for women’s education not only can improve their healthcare outcomes, but also promotes a broader level of socioeconomic welfare support.
 
@@ -12,12 +15,22 @@ Through our literature review, we have analyzed that scholars overwhelmingly agr
 
 Our project is significant because it connects the global issue of education and healthcare inequalities with the authentic living experiences, narratives, and power dynamics that shape women’s reproductive health. While many previous research studies analyzed infant mortality rate with a country’s GDP and reproductive autonomy, not many investigations discussed how women’s access to high-quality education can intersect with these issues based on the diverse cultural backgrounds of different countries. Our analysis brings different perspectives together to demonstrate how educational opportunity, or the lack of it, can lead to how women’s health outcomes can be represented, both in statistics and narratives. Through combining a humanistic point of view and empirical health data, our group's project illuminated how the differences in women’s power representation, structural inequalities, and unequal access to education opportunities can increase gaps in healthcare services. Especially in low-income or marginalized areas. Ultimately, we hope that this research project will push to enhance the knowledge of reproductive health around the globe in a more human-centered and education-focused approach.
 
+### What is the relationship between women’s participation in secondary education and birth rates in major developing countries?
 
+::: {.column-page}
 <figure style="text-align: center;">
 
-<iframe src="lower_secondary_education_gender_shares_ordered_by_infant_mortality_rate.html" width="100%" height="600" style="border:none;">
+  <iframe
+    src="lower_secondary_education_gender_shares_ordered_by_infant_mortality_rate.html"
+    style="border:none; width:100%; height:80vh;">
+  </iframe>
 
-</iframe>
+  <figcaption>
+    Female share of secondary education enrollment across low–middle income countries in 2018 (top) vs. 2021 (bottom), ordered by infant mortality rate (per 1,000 live births). Each bar displays the proportion of secondary students who are female versus male. The dashed line marks the 45% female-share threshold to highlight countries falling below this benchmark.
+  </figcaption>
+
+</figure>
+:::
 
 The first visualization compares the female share of secondary education completion rates across low to middle-income countries in the years 2018 (top) and 2021 (bottom), ordered by infant mortality rate (per 1,000 live births), where the left of the visualization indicates low infant mortality rates and the right side indicates high reports of infant mortality. Each bar reflects the proportion of secondary students who are female (green) versus male (yellow). The dashed line marks the 45% female-share threshold. Our group selected years 2018 and 2021 to demonstrate how the COVID-19 pandemic affected girls’ secondary education and infant mortality outcomes.
 
@@ -28,19 +41,22 @@ Additionally, while hovering over each bar, we can see the exact infant mortalit
 Overall, this visualization illustrated how Covid-19 increased the attention coming from societies on the access to education. As a result there was evident improvement in these two fields. This positive trend followed by the past academic researches that the welfare for women can be significantly improved. (Okui; Pezzulo et al.) Education will make women better understand their reproductive system and more healthcare participation. In the meantime the risk for the pregnant women and the infant will be lower.
 
 
+::: {.column-page}
 <figure style="text-align: center;">
 
-<iframe src="adolscent_labor_force_bins.html" width="100%" height="600" style="border:none;">
+  <iframe
+    src="adolscent_labor_force_bins.html"
+    style="border:none; width:100%; height:80vh;">
+  </iframe>
 
-</iframe>
-
-<figcaption style="margin-top: font-size: 0.9em; color: #555;">
-
-Adolescent fertility rates (ages 15–24) are displayed for six bins of youth labor force participation. Each boxplot summarizes the distribution of fertility rates within its bin, while the color of each box reflects the median female-to-male literacy ratio for that labor-force-participation range.
-
-</figcaption>
+  <figcaption style="font-size: 0.9em; color: #555; margin-top: 0.5em;">
+    Adolescent fertility rates (ages 15–24) are displayed for six bins of youth labor force participation. 
+    Each boxplot summarizes the distribution of fertility rates within its bin, while the color of each box 
+    reflects the median female-to-male literacy ratio for that labor-force-participation range.
+  </figcaption>
 
 </figure>
+:::
 
 While visualization 1 explicitly highlighted how getting education can benefit the health of pregnant women and infants, visualization 2  moved its focus to an even earlier stage of life, shifting its focus  to adolescent girls who might not have completed secondary school yet. This visualization helps the audience to understand the economic disadvantage (particularly the participation into the workforce for teenage people) and its relationship to fertility outcomes and literacy levels. These findings supported the wide range of investigations. For researchers such as Azzopardi et al., who emphasize that adolescent wellbeing is shaped by intertwined educational and economic struggles (Azzopardi et al. 1101–1118). Whereas authors such as Singh and Singh argued that the difference when it comes to getting resources due to gender difference can greatly influence a woman’s health conditions (Singh and Singh). From here, the audience can see that visualization 2 demonstrates that labor, education, and reproductive behavior can intersect with each other before a girl turns into an adult. 
 
@@ -51,17 +67,21 @@ As labor force participation increases, average fertility rates increase slightl
 
 Overall the second visualization showcased the importance of understanding the relationship between adolescent labor behaviors in a broader social and economic contexts. That adolescent groups working is not only an economical indicator, but it’s highly related to literacy rates, access to education and giving birth to the next generation. This chart emphasized the core of our project, that education is a crucial indicator of the health status of women. The impact can be long standing even before adulthood. 
 
+::: {.column-page}
 <figure style="text-align: center;">
-  <iframe 
-    src="gdp_neonatal_fertility_rate.html" 
-    width="100%" 
-    height="600"
-    style="border:none;">
+
+  <iframe
+    src="gdp_neonatal_fertility_rate.html"
+    style="border:none; width:100%; height:80vh;">
   </iframe>
-  <figcaption style="margin-top: font-size: 0.9em; color: #555;">
-    Each point represents a country in a given year, where the x-axis reflects economic size (log GDP), the y-axis reflects neonatal mortality, and the color indicates health expenditure per capita. 
+
+  <figcaption style="font-size: 0.9em; color: #555; margin-top: 0.5em;">
+    Each point represents a country in a given year, where the x-axis reflects economic size (log GDP), 
+    the y-axis reflects neonatal mortality, and the color indicates health expenditure per capita.
   </figcaption>
+
 </figure>
+:::
 
 This visualization explores and compares a country's neonatal mortality rates versus the economic size (GDP) and the health expenditure that each country endows. This visualization in particular applies a log scale to GDP to reduce the extreme spread in values and allow patterns to be more easily interpreted. The results show that health expenditure per capita is far more strongly associated with neonatal mortality than GDP itself. The color gradient makes this clear: countries with higher health spending consistently exhibit lower neonatal mortality rates, regardless of their GDP level.
 

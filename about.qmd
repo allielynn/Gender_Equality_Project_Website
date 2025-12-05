@@ -1,6 +1,7 @@
 ---
 title: "About"
 title-block-banner: "banner.jpeg"
+page-layout: full
 ---
 
 ## Meet the Team
