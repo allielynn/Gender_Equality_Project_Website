@@ -1,0 +1,7 @@
+---
+title: "Health & Mortality <br> Indicators"
+image: viz6.jpeg
+title-block-banner: "banner_viz.jpeg"
+format: html
+page-layout: full
+---

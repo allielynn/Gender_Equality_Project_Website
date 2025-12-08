@@ -1,7 +1,9 @@
 ---
 title: "Narrative"
 title-block-banner: "banner.jpeg"
-page-layout: full
+format:
+  html:
+    page-layout: full
 ---
 
 # Introduction

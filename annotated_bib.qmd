@@ -4,6 +4,8 @@ title-block-banner: "banner.jpeg"
 page-layout: full
 ---
 
+# Citations
+
 ::: hanging-indent
 Addo, F. R., Sassler, S., & Williams, K. (2016). Reexamining the Association of Maternal Age and Marital Status at First Birth With Youth Educational Attainment. Journal of Marriage and Family, 78(5), 1252–1268. https://doi.org/10.1111/jomf.12360
 :::
@@ -99,6 +101,10 @@ Tamir, Tadesse Tarik. “Neonatal Mortality Rate and Determinants among Births o
 :::
 
 This article argues that neonates born to mothers at the extreme ends of reproductive age, adolescents, and older mothers in low and middle-income countries face higher mortality risks compared to those born to mothers in the typical reproductive age range. The authors use secondary analysis of demographic and health survey data from 43 low and middle-income countries, including a total sample of 151,685 live births, and employ a multilevel mixed-effects model to identify specific determinants of neonatal mortality such as maternal education, home delivery, multiple births, country-level fertility, etc. This source is important because it highlights how maternal age as a social and biological factor intersects with other vulnerabilities, such as low education or home birth, to affect newborn survival in developing settings. This will support our project on gendered health in developing countries as it shows how maternal age, which often correlates with gendered norms such as early childbearing or older motherhood, can contribute to gender specific risks for newborns, thereby reinforcing the argument that gendered social factors shape health outcomes in low-income contexts.
+
+::: hanging-indent
+World Health Organization. “Maternal Health.” WHO, 23 Sept. 2019, www.who.int/news-room/fact-sheets/detail/maternal-health.
+:::
 
 ::: hanging-indent
 Yan, J., Wang, L., Yang, Y., Zhang, Y., Zhang, H., He, Y., Peng, Z., Wang, Y., Wang, Q., Shen, H., Zhang, Y., Yan, D., Ma, X., & Yang, H. (2020). The trend of caesarean birth rate changes in China after ‘universal two-child policy’ era: a population-based study in 2013–2018. BMC Medicine, 18(1), Article 249. https://doi.org/10.1186/s12916-020-01714-7

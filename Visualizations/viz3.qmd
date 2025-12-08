@@ -11,7 +11,8 @@ page-layout: full
 
   <iframe
     src="gdp_neonatal_fertility_rate.html"
-    style="border:none; width:100%; height:80vh;">
+    style="border:none; width:100%; height:80vh;"
+    title="Interactive scatterplot comparing countries’ neonatal mortality rates with log GDP and health expenditure per capita. The chart shows that neonatal mortality decreases consistently as health expenditure rises, regardless of a country’s GDP. Countries with higher health spending cluster at low neonatal mortality, while many lower- and middle-income countries in the mid-GDP range show elevated mortality. GDP alone does not form a clear trend with neonatal mortality, indicating that investment in healthcare systems is more strongly associated with improved neonatal outcomes.">
   </iframe>
 
   <figcaption style="font-size: 0.9em; color: #555; margin-top: 0.5em;">
@@ -21,6 +22,7 @@ page-layout: full
 
 </figure>
 :::
+
 
 
 This visualization explores and compares a country's neonatal mortality rates versus the economic size (GDP) and the health expenditure that each country endows. This visualization in particular applies a log scale to GDP to reduce the extreme spread in values and allow patterns to be more easily interpreted. The results show that health expenditure per capita is far more strongly associated with neonatal mortality than GDP itself. The color gradient makes this clear: countries with higher health spending consistently exhibit lower neonatal mortality rates, regardless of their GDP level.

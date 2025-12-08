@@ -15,6 +15,7 @@ page-layout: full
     frameborder="0"
     scrolling="no"
     allowfullscreen
+    title="Bar chart comparing education expenditure as a share of GDP and primary school enrollment rates for Afghanistan and Iceland in 2019. Iceland’s investment is nearly three times higher than Afghanistan’s, and its primary school enrollment rate is about one and a half times higher, illustrating substantial differences in educational access and funding."
   ></iframe>
 
   <figcaption style="text-align: center; font-size: 0.9em; margin-top: 0.5em;">
@@ -25,3 +26,5 @@ page-layout: full
 
 
 The chart powerfully supports the narrative of a vast development disparity by demonstrating that Iceland significantly outpaces Afghanistan in both educational investment and system reach. Specifically, Iceland's Education Expenditure (the tall, dark green bar) is nearly three times greater than Afghanistan's (the short, gold bar), reflecting a superior financial commitment to its education system. Crucially, this higher investment translates directly into systemic success, as Iceland's Primary School Enrollment Rate is approximately 1.5 times higher than Afghanistan's, indicating that the Icelandic system has both the resources and the capacity to provide foundational education to a much larger share of its population. This differential in investment and access forms the economic and logistical backdrop that enables Iceland to achieve superior gender equality outcomes, a stark contrast to the challenges faced by Afghanistan.
+
+

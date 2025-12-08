@@ -11,7 +11,8 @@ page-layout: full
 
   <iframe
     src="adolscent_labor_force_bins.html"
-    style="border:none; width:100%; height:80vh;">
+    style="border:none; width:100%; height:80vh;"
+    title="Interactive boxplot chart showing adolescent fertility rates across six bins of youth labor force participation. Fertility rates are lowest in the lowest participation groups and rise slightly as participation increases, with the greatest variability in the mid-range bins. Box colors represent female-to-male literacy ratios, which tend to be lowest in low-participation groups and increase with higher participation. The visualization highlights how adolescent labor participation, literacy levels, and fertility outcomes intersect, with higher participation often linked to elevated fertility and mixed literacy patterns.">
   </iframe>
 
   <figcaption style="font-size: 0.9em; color: #555; margin-top: 0.5em;">
