@@ -31,7 +31,7 @@ page-layout: full
   ></iframe>
 
   <figcaption style="text-align: center; font-size: 0.85em; margin-top: 0.4em;">
-    Average birth rate by country.
+    Average Birth Rate by country.
   </figcaption>
 
 </figure>
@@ -52,7 +52,7 @@ page-layout: full
   ></iframe>
 
   <figcaption style="text-align: center; font-size: 0.85em; margin-top: 0.4em;">
-    Health expenditure per capita by country.
+    Average Health expenditure per capita by country.
   </figcaption>
 
 </figure>

@@ -39,6 +39,15 @@ This subsetting inevitably constrained the number of countries represented in po
 
 For our visualizations, we used Tableau and R to highlight patterns in the data. Tableau powered interactive dashboards that were easy for teammates with less coding experience to build and explore, while R supported more technical, analysis-heavy charts. Some of our team members also leveraged the Plotly library in R to add interactivity to custom graphics. In addition, we used Timeline.js to create an interactive chronology of global birth rates that paired narrative context with visuals.
 
+![The Quarto logo.](
+  https://posit.co/wp-content/uploads/2022/10/thumbnail-2.jpg
+){fig-align="left" width="500"}
+
+<p style="text-align: left;">
+  <span style="font-size: 0.9em;">Logo credit: Posit (Quarto).</span>
+</p>
+
+
 ### Presentation
 
 Our site was developed in RStudio using Quarto, hosted on Netlify, and version-controlled with GitHub. The website has a white and mint color palette and texts are in black color to enhance the readability of the website using contrast. Every picture and data visualizations have alt text and descriptive headers to assist readers in their understanding. All headers follows a HTML structure which improves the accessibility of our website and provides directions for users when navigating.

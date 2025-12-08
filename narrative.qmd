@@ -102,6 +102,13 @@ To explore the relationship between female participation in secondary education 
 
 In 2018, it is important to note that the majority of countries just barely meet the 45% female share benchmark, but by 2021, nearly all in the dataset will exceed this standard. This indicates that access and retention of girls in secondary education greatly improved in the year 2021, following the height of the global pandemic, which called for an emphasis on the importance of education, whether that be virtual or in person (Tamir). Also, it is expected that Sierra Leone will have the highest infant mortality rate, and it will actually become the country with the highest share of secondary completion by females in 2021. This demonstrates a huge jump from 2018, where we see that secondary completion rates by females were at 49.5%. This suggests that progress was made in both female health and education fields following the global pandemic, especially due to the high mortality rates that it caused and the awareness that it shed on preventative health care.
 
+![A teacher and a student wearing face masks in a classroom, seated close together and viewing a test.](https://penntoday.upenn.edu/sites/default/files/styles/2880px_wide_with_focal_crop/public/2021-03/teacher-classroom-maks-closeup.jpeg?h=119335f7&itok=AGegQ12B){fig-align="center"}
+
+<p style="text-align: center;">
+  <span style="font-size: 0.9em;">Photo credit: Penn Today, University of Pennsylvania.</span>
+</p>
+
+
 Additionally, while hovering over each bar, we can see the exact infant mortality rate for each country and note that the maximum infant mortality rate for Cape Verde has actually decreased from 58.2% to 54.0% after the pandemic. This could be due to a greater spotlight on education in low-income countries following the outbreak of COVID-19, which would support more online work instead of in-person work that low-income countries often partake in (Akanbi et al. 138–146) We also see a decline in infant mortality due to a greater focus on health, which is a result of more educational opportunities and emphasis. 
 
 Overall, this visualization illustrated how the Covid-19 pandemic heightened societal focus on the critical importance of education access, and this increased attention likely contributed to the evident improvement observed in both female secondary enrollment and infant mortality outcomes by 2021. This positive trend aligns with established academic research (Okui; Pezzulo et al.) demonstrating that investments in women’s education significantly improve their welfare. Education empowers women with a better understanding of their reproductive health and fosters increased participation in healthcare, ultimately leading to lower risks for both pregnant women and infants.
@@ -139,6 +146,12 @@ Building on the previous two visualizations that focused on early educational in
 The visualization illustrates adolescent fertility rates (for females ages 15–24) across six distinct bins of youth labor force participation, revealing important connections between labor, education, and reproductive behavior in adolescent females. Each boxplot summarizes the distribution of fertility rates within its respective bin, and the color of each box reflects the median female-to-male literacy ratio for that specific labor-force-participation range.
 
 In the lowest labor force participation bin, adolescents demonstrate both the lowest average fertility rates and the lowest female-to-male literacy ratios. This finding suggests a complex relationship where marginalization and restricted access to schooling may limit both economic activity and childbearing. While limited education is linked to lower reproductive knowledge and influences childbearing patterns, a finding consistent with Azzopardi et al. and Akanbi et al., who link limited schooling to higher risks for teenage pregnancy (Akanbi et al. 138–146), the lowest participation may represent a group facing systemic barriers that suppress all forms of measured activity. Furthermore, the forms of work available to this group often do not require or encourage formal schooling, which perpetuates poor literacy outcomes and reinforces the cycle of marginalization.
+
+![Girls in a classroom — several schoolgirls seated at desks talking.](https://static01.nyt.com/images/2011/03/14/gashora1/gashora1-blog480.jpg){fig-align="center"}
+
+<p style="text-align: center;">
+  <span style="font-size: 0.9em;">Photo credit: The New York Times.</span>
+</p>
 
 As labor force participation increases, the average fertility rate rises slightly, but fertility outcomes exhibit the greatest variability, particularly in the 33.5–40.4 participation bin. This high variance may indicate that adolescents entering the workforce at higher rates are often doing so during their peak fertility years. Crucially, the visualization illustrates that the highest labor force participation groups also contain some of the highest fertility values. This finding runs counter to the established trend in developed economies, where economic stability is typically associated with delayed fertility. Instead, the data suggests that in these contexts, high adolescent labor participation may be driven by poverty and the necessity of early work, which in turn facilitates or precedes early parenthood (Zeng et al.; Singh).
 

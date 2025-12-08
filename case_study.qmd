@@ -6,6 +6,15 @@ page-layout: full
 
 # A Case Study into Afghanistan and Iceland: Investment and Equity
 
+<img
+  src="https://www.hrw.org/sites/default/files/styles/embed_xxl/public/media_2021/10/202110asia_afghanistan_woman.jpg?itok=hpe344q9"
+  alt="A woman in a niqab holding a handwritten sign that reads ‘Education is our right.’"
+  style="display: block; margin: 0 auto; max-width: 80%;"
+/>
+<p style="text-align: center;">
+  <span style="font-size: 0.9em;">Photo credit: Human Rights Watch (2021).</span>
+</p>
+
 While our analysis helps us understand the broad global relationship between GDP, health expenditure, and neonatal mortality, these correlations will become clearer with a comparison between two countries. We chose to do a case study of Afghanistan and Iceland to show how different countries can have completely different outcomes on healthcare and gender equality depending on their national investment. 
 
 <figure style="width: 100%; max-width: 900px; margin: 0 auto;">
@@ -48,4 +57,11 @@ Conversely, Afghanistan’s significantly lower normalized expenditure results i
 This educational disparity has severe health implications: lower levels of female education correlate strongly with higher rates of adolescent fertility and death by infectious disease or maternal conditions. The lack of schooling in Afghanistan is not only an equity issue but also a profound public health crisis, limiting women’s knowledge of basic sanitation, reproductive health, and when to seek medical care, thereby perpetuating a cycle of low educational attainment and high mortality rates that Iceland’s system has successfully broken.
 
 The selection of Iceland and Afghanistan for this comparative analysis is driven by their representation of two geopolitical and developmental extremes on the spectrum of gender equality and human development. Iceland consistently ranks at the top of global indices for gender equality, notably achieving remarkable parity in education, economic participation, and political empowerment. Conversely, Afghanistan, particularly during the period analyzed, has been widely documented as facing severe, systemic challenges regarding women's rights and access to essential services, including education. The deliberate contrast between Iceland's model of high, equitable investment and Afghanistan’s documented limitations, especially concerning female secondary school access, creates a clear case study. This divergence maximizes the potential for observing and quantifying the effects of social investment (or lack thereof) on fundamental indicators like mortality rates, educational attainment, and overall public health outcomes.
+
+![An adult woman and three girls wearing hijabs, each with a backpack, walking together.](https://images.wsj.net/im-690023?width=1280&size=1.77777778){fig-align="center"}
+
+<p style="text-align: center;">
+  <span style="font-size: 0.9em;">Photo credit: The Wall Street Journal.</span>
+</p>
+
 
