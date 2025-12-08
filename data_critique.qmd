@@ -6,6 +6,8 @@ page-layout: full
 
 ![World Bank Gender Data Portal Logo](https://genderdata.worldbank.org/content/dam/sites/data/gender-data/img/2023/gender-portal-logo-2x.png){width="500"}
 
+# Dataset & Variables 
+
 We originally chose this dataset because it contained many variables that aligned with our research interests, spanning education, health, economic conditions, and gender equality. However, once we downloaded the full Gender Data Portal dataset and began preparing it for analysis, we encountered extensive missing values across many of the indicators we hoped to use. This forced us to work with subsets of the data rather than the complete set of variables we had planned to analyze. As a result, our final dataset represents only the indicators with sufficient coverage across countries and years, which inevitably leaves out important metrics and creates silences within our analysis. In other words, our findings reflect the structure of the available data—not necessarily the full complexity of global gender inequality.
 
 The original sources for the Gender Data Portal include national governments and major international organizations that produce official gender-disaggregated statistics. These sources range from national statistical offices, ministries of labor, health, and education to global agencies such as UNDP, UNICEF, UNESCO, UN Women, the International Labour Organization (ILO), the World Health Organization (WHO), and the International Monetary Fund (IMF). The World Bank compiles, standardizes, and harmonizes these national submissions so that cross-country comparisons become possible.

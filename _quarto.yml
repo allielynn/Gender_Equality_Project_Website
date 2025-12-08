@@ -15,6 +15,8 @@ website:
         text: Narrative 
       - href: data_critique.qmd
         text: Data Critique
+      - href: case_study.qmd
+        text: Case Study
       - href: viz.qmd
         text: Visualizations
       - href: annotated_bib.qmd
@@ -25,11 +27,11 @@ format:
   html:
     title-block: true
     title-block-banner: true
+    page-layout: full
     theme:
       - minty
       - brand
     css: styles.css
     toc: true
 
-editor: visual
 

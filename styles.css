@@ -6,16 +6,5 @@
 #title-block-header .quarto-title .title {
   color: #FBEFD8 !important;
 }
-.page-layout-full #title-block-header,
-.page-layout-full .quarto-title-block {
-  max-width: 900px;          /* or whatever you like */
-  margin-left: auto;
-  margin-right: auto;
-}
 
-/* If the banner background is going edge-to-edge and you hate it */
-.page-layout-full .quarto-title-block .quarto-title-block-content {
-  max-width: 900px;
-  margin-left: auto;
-  margin-right: auto;
-}
+
